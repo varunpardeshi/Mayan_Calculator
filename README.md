@@ -1,2 +1,5 @@
 # Mayan Calculator
 This application transforms numbers from the modern system into visual symbols inspired by the way the Mayans represented numeric values. The project was inspired by a trip I took to Chichén Itzá—one of the Seven Wonders of the World—where our guide explained that in the modern number system, we use ten symbols to represent values (0–9), while the Mayans used only three. Hearing this sparked my curiosity about ancient numerical systems and how different civilizations approached mathematics. It also highlighted how efficient and visually intuitive the Mayan method can be. This project is my way of exploring that idea further and sharing the beauty of their number system through a simple, interactive tool.
+
+
+![Chichén Itzá](Images/images1.png)
